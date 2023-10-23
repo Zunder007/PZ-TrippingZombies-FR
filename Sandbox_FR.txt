@@ -1,0 +1,16 @@
+Sandbox_FR = {
+
+    Sandbox_TrippingZombies = "Tripping Zombies",
+
+	Sandbox_collisionTripChanceSprinters = "% de chance pour les sprinteurs de trébucher lorsqu'ils se heurtent entre eux",
+	Sandbox_collisionTripChanceSprinters_tooltip = "0 = jamais, 100 = toujours (peut être buggé)",
+
+	Sandbox_collisionTripChanceShamblers = "% de chance pour les trainards et les trainards rapide de trébucher lorsqu'ils se heurtent entre eux",
+	Sandbox_collisionTripChanceShamblers_tooltip = "0 = jamais, 100 = toujours (peut être buggé)",
+
+	Sandbox_randomTripChanceSprinters = "% de chance pour les sprinteurs de trébucher aléatoirement",
+	Sandbox_randomTripChanceSprinters_tooltip = "0 = jamais, 100 = toujours (peut être buggé)",
+
+	Sandbox_randomTripChanceShamblers = "% de chance pour les trainards et les trainards rapide de trébucher aléatoirement",
+	Sandbox_randomTripChanceShamblers_tooltip = "0 = jamais, 100 = toujours (peut être buggé)",
+}
